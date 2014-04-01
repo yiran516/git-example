@@ -17,3 +17,10 @@
 (define nums
   (lambda (n)
     (cdr (iota (+ n 1)))))
+    
+;;; File:
+;;;   utils.rkt
+;;; Author:
+;;;   Your Name Here
+;;; Summary:
+;;;   A few sample utilities, created as part of a lab on GitHub.
